@@ -1,6 +1,6 @@
 {
-    "name": "lunpan",
-    "short_name": "lunpan",
+    "name": "lunpanf",
+    "short_name": "lunpanf",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
